@@ -9,7 +9,7 @@
 </head>
 <body>
 	Welcome to my IPASS Project!!<br><br>
-	If you already have an account please 
+	If you have an account already please 
 	<a href="login.jsp">login</a>.<br><br>
 	If you don't have an account yet please 
 	<a href="register.jsp">register</a>.
